@@ -1,0 +1,14 @@
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\bin\Debug\net8.0\Conversor.exe
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\bin\Debug\net8.0\Conversor.deps.json
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\bin\Debug\net8.0\Conversor.runtimeconfig.json
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\bin\Debug\net8.0\Conversor.dll
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\bin\Debug\net8.0\Conversor.pdb
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfoInputs.cache
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.AssemblyInfo.cs
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.dll
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\refint\Conversor.dll
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.pdb
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\Conversor.genruntimeconfig.cache
+C:\Users\sarah.abreu.barreto\OneDrive - Avanade\Área de Trabalho\caiculadora\Conversor\obj\Debug\net8.0\ref\Conversor.dll
